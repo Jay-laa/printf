@@ -1,5 +1,18 @@
 0x11. C - printf team project
 
+###Environment
+
+Language: C
+Editor: VIM 8.1.2269
+Compiler: gcc 9.3.0
+Wall -Werror -Wextra -pedantic -std=gnu89
+Style guidelines: [Betty style]
+###Project Specification
+
+No allowed to use global variable
+No more than 5 functions per file
+All files end with a new line
+
 Group Project:
 Team members:	JOY EMOJORHO
 		JOHN EBHOHIMEN
@@ -62,3 +75,8 @@ Handle the following custom conversion specifier:
                                                                                     
 15. *                                                                               
 All the above options work well together. 
+
+##Authors:
+
+###JOY EMOJORHO https://github.com/Jay-laa
+###JOHN EBHOHIMEN https://github.com/mudiajohn
